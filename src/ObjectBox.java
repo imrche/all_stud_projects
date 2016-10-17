@@ -1,5 +1,6 @@
 
 public class ObjectBox {
-	next
+	Object obj;
+	ObjectBox next;
 	
 }
